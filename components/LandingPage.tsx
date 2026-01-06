@@ -108,7 +108,7 @@ const LandingPage: React.FC = () => {
               </div>
               <h3 className="text-2xl font-serif font-bold text-brand-dark mb-4">Direito Empresarial</h3>
               <p className="text-gray-500 font-light leading-relaxed mb-6">
-                 Consultoria jurídica para o crescimento seguro do seu negócio, incluindo contratos, M&A e compliance corporativo.
+                 Consultoria jurídica para o crescimento seguro do seu negócio, incluindo contratos e compliance corporativo.
               </p>
               <a href="#" className="inline-flex items-center text-brand-gold font-medium text-sm hover:underline gap-1">
                 Saiba mais <ArrowRight size={14} />
